@@ -1,11 +1,12 @@
 {
-  "name": "準備リスト",
-  "short_name": "準備リスト",
-  "start_url": "./",
+  "name": "ふたりの生活在庫",
+  "short_name": "生活在庫",
+  "description": "ふたりで共有する買い物・冷蔵庫・日用品管理アプリ",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F7F9FD",
-  "theme_color": "#39A7A0",
+  "background_color": "#0d9488",
+  "theme_color": "#059669",
   "icons": [
     {
       "src": "./icon-192.png",
