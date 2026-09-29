@@ -1,7 +1,7 @@
 {
   "name": "ふたりの生活在庫",
   "short_name": "生活在庫",
-  "description": "ふたりで共有する買い物・冷蔵庫・日用品管理アプリ",
+  "description": "ふたりで共有する生活在庫アプリ",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
